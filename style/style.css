@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.heading {
+    font-family: 'Staatliches', cursive;
+}
+
+#result, #loading, .alert {
+    display: none;
+
+}
