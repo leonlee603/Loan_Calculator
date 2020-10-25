@@ -5,6 +5,7 @@ HTML, CSS & Bootstrap for content and styling.<br>
 JavaScript for functionality.<br>
 - If user has miss the input of any of the field or the result of the calculation is not finite. Error message will be shown for 3 seconds.<br>
 - Responsive layout<br>
-- Loading effect for better user experience.<br><br>
+- Loading effect for better user experience.<br>
+
 Live Demo:<br>
 https://leonlee603.github.io/Loan_Calculator/
